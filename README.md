@@ -1,2 +1,2 @@
-# Repositorio Laboratorio Comunicaciones I
-Recopilación de los laboratorios realizados en la parte práctica de la asignatura Comunicaciones I.
+# Repositorio Examen II Comunicaciones I
+Recopilación de los algoritmos empleados en el desarrollo del Examen II: procesos aleatorios, ruido gaussiano y transmisión a través de sistemas LTI.
